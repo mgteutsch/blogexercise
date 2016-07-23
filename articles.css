@@ -1,0 +1,49 @@
+.article1 {
+	background-color: blue;
+	font-family: arial, sans-serif;
+	font-size: 20px;
+	line-height: 0.5;
+	padding: 10px 10px 10px 10px;
+	border: 5px solid #1B2E89;
+	border-radius: 10px;
+}
+
+.article2 {
+	background-color: green;
+	font-family: "Times New Roman", serif;
+	font-size: 30px;
+	line-height: 0.75;
+	padding: 15px 15px 15px 15px;
+	border: 10px solid #084d1b;
+	border-radius: 15px;
+}
+
+.article3 {
+	background-color: yellow;
+	font-family: Georgia, serif;
+	font-size: 40px;
+	line-height: 1;
+	padding: 20px 20px 20px 20px;
+	border: 15px solid #e5b00a;
+	border-radius: 20px;
+}
+
+.article4 {
+	background-color: orange;
+	font-family: Courier, serif;
+	font-size: 50px;
+	line-height: 1.25;
+	padding: 25px 25px 25px 25px;
+	border: 20px solid #d47804;
+	border-radius: 25px;
+}
+
+.article5 {
+	background-color: red;
+	font-family: Verdana, sans-serif;
+	font-size: 60px;
+	line-height: 1.5;
+	padding: 30px 30px 30px 30px;
+	border: 25px solid #a11303;
+	border-radius: 30px;
+}
